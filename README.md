@@ -297,7 +297,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-- **Seu Nome** - *Desenvolvimento inicial* - [@seu-github](https://github.com/seu-usuario)
+- **Alberto A Vieira** - *Desenvolvimento inicial* - [@albertoaraujoo]([https://github.com/seu-usuario](https://github.com/albertoaraujoo))
 
 ## 🙏 Agradecimentos
 
@@ -311,7 +311,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Encontrou um bug ou tem uma sugestão?
 - 🐛 [Reporte um bug](https://github.com/seu-usuario/vitrine-ofertas/issues)
 - 💡 [Sugira uma feature](https://github.com/seu-usuario/vitrine-ofertas/issues)
-- 📧 Email: seu-email@exemplo.com
+- 📧 Email: alberto.araujoo@hotmail.com | alberto.araujoo@gmail.com
 
 ---
 
