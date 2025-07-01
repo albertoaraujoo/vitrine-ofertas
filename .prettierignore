@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Production builds
+.next/
+out/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.test
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package manager
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
