@@ -1,11 +1,11 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import ProductCard, { Product } from "@/components/product-card";
+import ProductCard, { ProductProps } from "@/components/product-card";
 import ProductFilters from "@/components/product-filters";
 
 type PaginatedProductsProps = {
-  products: Product[];
+  products: ProductProps[];
   productsPerPage?: number;
 };
 
@@ -103,7 +103,7 @@ const PaginatedProducts = ({
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
-            {visibleProducts.map((product: Product) => (
+            {visibleProducts.map((product: ProductProps) => (
               <ProductCard key={product.id} product={product} />
             ))}
           </div>

@@ -1,5 +1,3 @@
-import React from "react";
-
 const CardsSection = () => {
   return (
     <section className="bg-gray-800 py-16">
